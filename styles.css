@@ -53,3 +53,7 @@ a {
 	background-color: transparent;
 	text-decoration: underline;
 }
+
+#email {
+	margin-left: 0;
+}
